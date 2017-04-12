@@ -1,5 +1,8 @@
 // Create a BasicCard constructor. It should accept front and back arguments.
-function BasicCard(front, back){}
+function BasicCard(front, back){
+  this.front = front;
+  this.back = back;
+}
 // Create a ClozeCard constructor. It should accept text and cloze arguments.
 function ClozeCard(fullText, cloze){}
 // ClozeCard should have a property or method that contains or returns only the cloze-deleted portion of the text.
