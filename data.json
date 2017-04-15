@@ -1,1 +1,1 @@
-{"cards":[{"data":{"front":"A","back":"B"}}]}
+{"cards":[{"data":{"front":"A","back":"B"}},{"data":{"front":"BA","back":"BB"}},{"data":{"text":"CA","cloze":"CB"},"partial":"Sorry, value doesn't exist"},{"data":{"text":".... is a cc","cloze":"CC"},"partial":"Sorry, value doesn't exist"}]}
